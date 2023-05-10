@@ -2,6 +2,14 @@
 
 This repository contains three R codes as part of my portfolio for GEOS597 Dendrochronology Methods Workshop. 
 
+Research goals: 
+
+- Explore detrending methods on P. hartwegii chronology.
+
+- Build residual and standard chronology. 
+
+- Investigate climate signal in the chronology . 
+
 Scripts descriptions: 
 
 01_Exploring-Detrending.R: Throughout this script I explored the different detrending methods and applied them to Pinus hartwegii data. 
